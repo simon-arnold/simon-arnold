@@ -21,7 +21,7 @@ At the moment, you can find the code for my semester project here. It's a predic
 system that lowers electricity costs for a single-family home with PV and battery storage:
 
 - [**semesterproject_prediction**](https://github.com/simon-arnold/semesterproject_prediction): 
-  CNN-LSTM network that gets trained to forecast the household's electricity consumption, implemented using PyTorch
+  CNN-LSTM network that gets trained to forecast the household's electricity consumption
 - [**semesterproject_matlab**](https://github.com/simon-arnold/semesterproject_matlab): 
   Model predictive controller that charges and discharges the battery cost-efficiently using the prediction from above
 
